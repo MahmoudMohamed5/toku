@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:toku/models/category_model.dart';
 import 'package:toku/utils/app_colors.dart';
+import 'package:toku/views/numbers_view.dart';
 import 'package:toku/widgets/category.dart';
 
 class HomeView extends StatelessWidget {
@@ -37,6 +38,9 @@ class HomeView extends StatelessWidget {
       body: Column(
         children: [
           Category(
+            onTap: () => Navigator.of(context).push(MaterialPageRoute(
+              builder: (context) => const NumbersView(),
+            )),
             categoryModel: categoryList[0],
           ),
           Category(
