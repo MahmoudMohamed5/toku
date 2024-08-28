@@ -81,6 +81,7 @@ class NumbersView extends StatelessWidget {
         itemCount: itemList.length,
         itemBuilder: (context, index) {
           return Item(
+            color: AppColors.orangeColor,
             itemModel: itemList[index],
           );
         },
