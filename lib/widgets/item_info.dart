@@ -1,30 +1,32 @@
-
+import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
+import 'package:toku/models/item_model.dart';
 
 class ItemInfo extends StatelessWidget {
   const ItemInfo({
     super.key,
+    required this.itemModel,
   });
-
+  final ItemModel itemModel;
   @override
   Widget build(BuildContext context) {
     return Expanded(
       child: Row(
         mainAxisSize: MainAxisSize.max,
         children: [
-          const Column(
+          Column(
             mainAxisSize: MainAxisSize.min,
             children: [
               Text(
-                'ichi',
-                style: TextStyle(
+                itemModel.jpName,
+                style: const TextStyle(
                   fontSize: 18,
                   color: Colors.white,
                 ),
               ),
               Text(
-                'one',
-                style: TextStyle(
+                itemModel.enName,
+                style: const TextStyle(
                   fontSize: 18,
                   color: Colors.white,
                 ),
@@ -33,9 +35,13 @@ class ItemInfo extends StatelessWidget {
           ),
           const Spacer(),
           IconButton(
-            onPressed: () {},
+            onPressed: () async {
+              final player = AudioPlayer();
+              await player.play(AssetSource(itemModel.sound));
+            },
             icon: const Icon(
               Icons.play_arrow,
+              color: Colors.white,
             ),
           ),
         ],

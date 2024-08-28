@@ -3,151 +3,151 @@ class AppSounds {
   AppSounds._();
   
   /// Assets for soundsColorsBlack
-  /// assets/sounds/colors/black.wav
-  static const String soundsColorsBlack = "assets/sounds/colors/black.wav";
+  /// sounds/colors/black.wav
+  static const String soundsColorsBlack = "sounds/colors/black.wav";
 
   /// Assets for soundsColorsBrown
-  /// assets/sounds/colors/brown.wav
-  static const String soundsColorsBrown = "assets/sounds/colors/brown.wav";
+  /// sounds/colors/brown.wav
+  static const String soundsColorsBrown = "sounds/colors/brown.wav";
 
   /// Assets for soundsColorsDusty yellow
-  /// assets/sounds/colors/dusty yellow.wav
-  static const String soundsColorsDustyYellow = "assets/sounds/colors/dusty yellow.wav";
+  /// sounds/colors/dusty yellow.wav
+  static const String soundsColorsDustyYellow = "sounds/colors/dusty yellow.wav";
 
   /// Assets for soundsColorsGray
-  /// assets/sounds/colors/gray.wav
-  static const String soundsColorsGray = "assets/sounds/colors/gray.wav";
+  /// sounds/colors/gray.wav
+  static const String soundsColorsGray = "sounds/colors/gray.wav";
 
   /// Assets for soundsColorsGreen
-  /// assets/sounds/colors/green.wav
-  static const String soundsColorsGreen = "assets/sounds/colors/green.wav";
+  /// sounds/colors/green.wav
+  static const String soundsColorsGreen = "sounds/colors/green.wav";
 
   /// Assets for soundsColorsRed
-  /// assets/sounds/colors/red.wav
-  static const String soundsColorsRed = "assets/sounds/colors/red.wav";
+  /// sounds/colors/red.wav
+  static const String soundsColorsRed = "sounds/colors/red.wav";
 
   /// Assets for soundsColorsWhite
-  /// assets/sounds/colors/white.wav
-  static const String soundsColorsWhite = "assets/sounds/colors/white.wav";
+  /// sounds/colors/white.wav
+  static const String soundsColorsWhite = "sounds/colors/white.wav";
 
   /// Assets for soundsColorsYellow
-  /// assets/sounds/colors/yellow.wav
-  static const String soundsColorsYellow = "assets/sounds/colors/yellow.wav";
+  /// sounds/colors/yellow.wav
+  static const String soundsColorsYellow = "sounds/colors/yellow.wav";
 
   /// Assets for soundsFamilyMembersDaughter
-  /// assets/sounds/family_members/daughter.wav
-  static const String soundsFamilyMembersDaughter = "assets/sounds/family_members/daughter.wav";
+  /// sounds/family_members/daughter.wav
+  static const String soundsFamilyMembersDaughter = "sounds/family_members/daughter.wav";
 
   /// Assets for soundsFamilyMembersFather
-  /// assets/sounds/family_members/father.wav
-  static const String soundsFamilyMembersFather = "assets/sounds/family_members/father.wav";
+  /// sounds/family_members/father.wav
+  static const String soundsFamilyMembersFather = "sounds/family_members/father.wav";
 
   /// Assets for soundsFamilyMembersGrand father
-  /// assets/sounds/family_members/grand father.wav
-  static const String soundsFamilyMembersGrandFather = "assets/sounds/family_members/grand father.wav";
+  /// sounds/family_members/grand father.wav
+  static const String soundsFamilyMembersGrandFather = "sounds/family_members/grand father.wav";
 
   /// Assets for soundsFamilyMembersGrand mother
-  /// assets/sounds/family_members/grand mother.wav
-  static const String soundsFamilyMembersGrandMother = "assets/sounds/family_members/grand mother.wav";
+  /// sounds/family_members/grand mother.wav
+  static const String soundsFamilyMembersGrandMother = "sounds/family_members/grand mother.wav";
 
   /// Assets for soundsFamilyMembersMother
-  /// assets/sounds/family_members/mother.wav
-  static const String soundsFamilyMembersMother = "assets/sounds/family_members/mother.wav";
+  /// sounds/family_members/mother.wav
+  static const String soundsFamilyMembersMother = "sounds/family_members/mother.wav";
 
   /// Assets for soundsFamilyMembersOlder bother
-  /// assets/sounds/family_members/older bother.wav
-  static const String soundsFamilyMembersOlderBother = "assets/sounds/family_members/older bother.wav";
+  /// sounds/family_members/older bother.wav
+  static const String soundsFamilyMembersOlderBother = "sounds/family_members/older bother.wav";
 
   /// Assets for soundsFamilyMembersOlder sister
-  /// assets/sounds/family_members/older sister.wav
-  static const String soundsFamilyMembersOlderSister = "assets/sounds/family_members/older sister.wav";
+  /// sounds/family_members/older sister.wav
+  static const String soundsFamilyMembersOlderSister = "sounds/family_members/older sister.wav";
 
   /// Assets for soundsFamilyMembersSon
-  /// assets/sounds/family_members/son.wav
-  static const String soundsFamilyMembersSon = "assets/sounds/family_members/son.wav";
+  /// sounds/family_members/son.wav
+  static const String soundsFamilyMembersSon = "sounds/family_members/son.wav";
 
   /// Assets for soundsFamilyMembersYounger brohter
-  /// assets/sounds/family_members/younger brohter.wav
-  static const String soundsFamilyMembersYoungerBrother = "assets/sounds/family_members/younger brohter.wav";
+  /// sounds/family_members/younger brohter.wav
+  static const String soundsFamilyMembersYoungerBrother = "sounds/family_members/younger brohter.wav";
 
   /// Assets for soundsFamilyMembersYounger sister
-  /// assets/sounds/family_members/younger sister.wav
-  static const String soundsFamilyMembersYoungerSister = "assets/sounds/family_members/younger sister.wav";
+  /// sounds/family_members/younger sister.wav
+  static const String soundsFamilyMembersYoungerSister = "sounds/family_members/younger sister.wav";
 
   /// Assets for soundsNumbersNumberEightSound
-  /// assets/sounds/numbers/number_eight_sound.mp3
-  static const String soundsNumbersNumberEightSound = "assets/sounds/numbers/number_eight_sound.mp3";
+  /// sounds/numbers/number_eight_sound.mp3
+  static const String soundsNumbersNumberEightSound = "sounds/numbers/number_eight_sound.mp3";
 
   /// Assets for soundsNumbersNumberFiveSound
-  /// assets/sounds/numbers/number_five_sound.mp3
-  static const String soundsNumbersNumberFiveSound = "assets/sounds/numbers/number_five_sound.mp3";
+  /// sounds/numbers/number_five_sound.mp3
+  static const String soundsNumbersNumberFiveSound = "sounds/numbers/number_five_sound.mp3";
 
   /// Assets for soundsNumbersNumberFourSound
-  /// assets/sounds/numbers/number_four_sound.mp3
-  static const String soundsNumbersNumberFourSound = "assets/sounds/numbers/number_four_sound.mp3";
+  /// sounds/numbers/number_four_sound.mp3
+  static const String soundsNumbersNumberFourSound = "sounds/numbers/number_four_sound.mp3";
 
   /// Assets for soundsNumbersNumberNineSound
-  /// assets/sounds/numbers/number_nine_sound.mp3
-  static const String soundsNumbersNumberNineSound = "assets/sounds/numbers/number_nine_sound.mp3";
+  /// sounds/numbers/number_nine_sound.mp3
+  static const String soundsNumbersNumberNineSound = "sounds/numbers/number_nine_sound.mp3";
 
   /// Assets for soundsNumbersNumberOneSound
-  /// assets/sounds/numbers/number_one_sound.mp3
-  static const String soundsNumbersNumberOneSound = "assets/sounds/numbers/number_one_sound.mp3";
+  /// sounds/numbers/number_one_sound.mp3
+  static const String soundsNumbersNumberOneSound = "sounds/numbers/number_one_sound.mp3";
 
   /// Assets for soundsNumbersNumberSevenSound
-  /// assets/sounds/numbers/number_seven_sound.mp3
-  static const String soundsNumbersNumberSevenSound = "assets/sounds/numbers/number_seven_sound.mp3";
+  /// sounds/numbers/number_seven_sound.mp3
+  static const String soundsNumbersNumberSevenSound = "sounds/numbers/number_seven_sound.mp3";
 
   /// Assets for soundsNumbersNumberSixSound
-  /// assets/sounds/numbers/number_six_sound.mp3
-  static const String soundsNumbersNumberSixSound = "assets/sounds/numbers/number_six_sound.mp3";
+  /// sounds/numbers/number_six_sound.mp3
+  static const String soundsNumbersNumberSixSound = "sounds/numbers/number_six_sound.mp3";
 
   /// Assets for soundsNumbersNumberTenSound
-  /// assets/sounds/numbers/number_ten_sound.mp3
-  static const String soundsNumbersNumberTenSound = "assets/sounds/numbers/number_ten_sound.mp3";
+  /// sounds/numbers/number_ten_sound.mp3
+  static const String soundsNumbersNumberTenSound = "sounds/numbers/number_ten_sound.mp3";
 
   /// Assets for soundsNumbersNumberThreeSound
-  /// assets/sounds/numbers/number_three_sound.mp3
-  static const String soundsNumbersNumberThreeSound = "assets/sounds/numbers/number_three_sound.mp3";
+  /// sounds/numbers/number_three_sound.mp3
+  static const String soundsNumbersNumberThreeSound = "sounds/numbers/number_three_sound.mp3";
 
   /// Assets for soundsNumbersNumberTwoSound
-  /// assets/sounds/numbers/number_two_sound.mp3
-  static const String soundsNumbersNumberTwoSound = "assets/sounds/numbers/number_two_sound.mp3";
+  /// sounds/numbers/number_two_sound.mp3
+  static const String soundsNumbersNumberTwoSound = "sounds/numbers/number_two_sound.mp3";
 
   /// Assets for soundsPhrasesAreYouComing
-  /// assets/sounds/phrases/are_you_coming.wav
-  static const String soundsPhrasesAreYouComing = "assets/sounds/phrases/are_you_coming.wav";
+  /// sounds/phrases/are_you_coming.wav
+  static const String soundsPhrasesAreYouComing = "sounds/phrases/are_you_coming.wav";
 
   /// Assets for soundsPhrasesDontForgetToSubscribe
-  /// assets/sounds/phrases/dont_forget_to_subscribe.wav
-  static const String soundsPhrasesDontForgetToSubscribe = "assets/sounds/phrases/dont_forget_to_subscribe.wav";
+  /// sounds/phrases/dont_forget_to_subscribe.wav
+  static const String soundsPhrasesDontForgetToSubscribe = "sounds/phrases/dont_forget_to_subscribe.wav";
 
   /// Assets for soundsPhrasesHowAreYouFeeling
-  /// assets/sounds/phrases/how_are_you_feeling.wav
-  static const String soundsPhrasesHowAreYouFeeling = "assets/sounds/phrases/how_are_you_feeling.wav";
+  /// sounds/phrases/how_are_you_feeling.wav
+  static const String soundsPhrasesHowAreYouFeeling = "sounds/phrases/how_are_you_feeling.wav";
 
   /// Assets for soundsPhrasesILoveAnime
-  /// assets/sounds/phrases/i_love_anime.wav
-  static const String soundsPhrasesILoveAnime = "assets/sounds/phrases/i_love_anime.wav";
+  /// sounds/phrases/i_love_anime.wav
+  static const String soundsPhrasesILoveAnime = "sounds/phrases/i_love_anime.wav";
 
   /// Assets for soundsPhrasesILoveProgramming
-  /// assets/sounds/phrases/i_love_programming.wav
-  static const String soundsPhrasesILoveProgramming = "assets/sounds/phrases/i_love_programming.wav";
+  /// sounds/phrases/i_love_programming.wav
+  static const String soundsPhrasesILoveProgramming = "sounds/phrases/i_love_programming.wav";
 
   /// Assets for soundsPhrasesProgrammingIsEasy
-  /// assets/sounds/phrases/programming_is_easy.wav
-  static const String soundsPhrasesProgrammingIsEasy = "assets/sounds/phrases/programming_is_easy.wav";
+  /// sounds/phrases/programming_is_easy.wav
+  static const String soundsPhrasesProgrammingIsEasy = "sounds/phrases/programming_is_easy.wav";
 
   /// Assets for soundsPhrasesWhatIsYourName
-  /// assets/sounds/phrases/what_is_your_name.wav
-  static const String soundsPhrasesWhatIsYourName = "assets/sounds/phrases/what_is_your_name.wav";
+  /// sounds/phrases/what_is_your_name.wav
+  static const String soundsPhrasesWhatIsYourName = "sounds/phrases/what_is_your_name.wav";
 
   /// Assets for soundsPhrasesWhereAreYouGoing
-  /// assets/sounds/phrases/where_are_you_going.wav
-  static const String soundsPhrasesWhereAreYouGoing = "assets/sounds/phrases/where_are_you_going.wav";
+  /// sounds/phrases/where_are_you_going.wav
+  static const String soundsPhrasesWhereAreYouGoing = "sounds/phrases/where_are_you_going.wav";
 
   /// Assets for soundsPhrasesYesImComing
-  /// assets/sounds/phrases/yes_im_coming.wav
-  static const String soundsPhrasesYesImComing = "assets/sounds/phrases/yes_im_coming.wav";
+  /// sounds/phrases/yes_im_coming.wav
+  static const String soundsPhrasesYesImComing = "sounds/phrases/yes_im_coming.wav";
 }
 
