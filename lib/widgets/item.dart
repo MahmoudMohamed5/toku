@@ -21,7 +21,7 @@ class Item extends StatelessWidget {
           Container(
             color: AppColors.lightPinkColor,
             child: Image.asset(
-              itemModel.img,
+              itemModel.img!,
             ),
           ),
           const SizedBox(
