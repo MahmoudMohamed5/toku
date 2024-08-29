@@ -27,8 +27,10 @@ class Item extends StatelessWidget {
           const SizedBox(
             width: 16,
           ),
-          ItemInfo(
-            itemModel: itemModel,
+          Expanded(
+            child: ItemInfo(
+              itemModel: itemModel,
+            ),
           )
         ],
       ),

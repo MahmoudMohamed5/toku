@@ -5,14 +5,18 @@ class Category extends StatelessWidget {
   const Category({
     super.key,
     required this.categoryModel,
-    this.onTap,
+    
   });
-  final VoidCallback? onTap;
+  
   final CategoryModel categoryModel;
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
-      onTap: onTap,
+      onTap: () => Navigator.of(context).push(
+              MaterialPageRoute(
+                builder: (context) =>  categoryModel.child,
+              ),
+            ),
       child: Container(
         padding: const EdgeInsets.all(20),
         alignment: Alignment.centerLeft,
